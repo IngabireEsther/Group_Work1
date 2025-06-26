@@ -4,7 +4,7 @@
 
 - [Ingabire Esther 27202]
 - [Akize Israel 25883]
-- [Umwali Belise 27229]
+- [Umwali Belyse 27229]
 - [Uwase Honette 27628]
 - [Bukenya Mustafa 26840]
 - [Salim Mahamat Haggar Djamaladi 25962]
