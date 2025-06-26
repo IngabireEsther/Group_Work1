@@ -2,7 +2,7 @@
 
 ## Group Members
 
-- [Add member name 1]
+- [Ingabire Esther 27202]
 - [Add member name 2]
 - [Add member name 3]
 - [Add member name 4]
