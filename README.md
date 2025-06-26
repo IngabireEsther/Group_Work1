@@ -3,11 +3,11 @@
 ## Group Members
 
 - [Ingabire Esther 27202]
-- [Add member name 2]
-- [Add member name 3]
-- [Add member name 4]
-- [Add member name 5]
-- [Add member name 6]
+- [Akize Israel 25883]
+- [Umwali Belise 27229]
+- [Uwase Honette 27628]
+- [Bukenya Mustafa 26840]
+- [Salim Mahamat Haggar Djamaladi 25962]
 
 ## Activities Documentation
 
